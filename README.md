@@ -22,7 +22,8 @@ Mean filter is a simple sliding window that replace the center value with the av
 
 Mean filter is a simple sliding window that replace the center value with the Median of all pixel values in the window. The window or kernel is usually a square but it can be of any shape.  
   
-4. The Wiener filter
+4. The Wiener filter  
+
 The Wiener filter is the MSE-optimal stationary linear filter for images degraded by additive noise and blurring. Calculation of the Wiener filter requires the assumption that the signal and noise processes are second-order stationary (in the random process sense).  
 
 
