@@ -9,7 +9,8 @@ Features
 
 Adding noise to an image  
 
-Various noise like SALT and PEPPER, GAUSSIAN, POISSON, SPECKLED NOISE.   
+Various noise like SALT and PEPPER, GAUSSIAN, POISSON, SPECKLED NOISE was added to the images  
+
 1. Gaussian Filter:   
  
 In image processing, a Gaussian blur (also known as Gaussian smoothing) is the result of blurring an image by a Gaussian function (named after mathematician and scientist Carl Friedrich Gauss). It is a widely used effect in graphics software, typically to reduce image noise and reduce detail.     
